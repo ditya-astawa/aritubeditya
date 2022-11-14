@@ -13,8 +13,8 @@ const defaultMenu = {
 ➲ Tersisa *%limit Limit*
 ➲ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
 %totalexp XP in Total
-✮ yt: https://youtube.com/c/ArieTube
-✮ Grup Wa Bot: *https://chat.whatsapp.com/Dj8kMyI48u6KGbaAQtKi70*
+✮ yt: gak punya
+✮ Grup Wa Bot: *https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP*
  
 %readmore`.trimStart(),
   header: '┏━━━•❅•°•❈ %category 』',
@@ -209,156 +209,156 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       return conn.sendMessage(m.chat, {
            title: `Hallo ${name} ${'@'+m.sender.split`@`[0]}`.trim(),
            text: `\nKamu Adalah ${rank}\nTersisa *${limit}* Limit\nLevel *${level}*`, 
-           footer: "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞 𝐁𝐨𝐭",
+           footer: "© Dityabotz",
            buttonText: "Klik Disini",
            "sections": [
             {
               "rows": [
                 {
                   "title": `"Menu Utama📶"`,
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? all"
                 },
                  {
                   "title": "Rpg🕹️",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? rpg"
                 },
                 {
                   "title": "Daftar📒",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? daftar"
                 },
                 {
                   "title": "Rules⛔",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? rules"
                 },
                  {
                   "title": "Request Fitur📲",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? request"
                 },
                 {
                   "title": "Main⬆️",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? main"
                 },
                   {
                   "title": "Game⚔️",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? game"
                 }, {
                   "title": "Exp & Limit🔗",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? xp"
                 }, {
                   "title": "Sticker🎭",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? sticker"
                 }, 
                 {
                   "title": "Donasi💰",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? donasi"
                 },
                 {
                   "title": "Kerang Ajaib🐉️",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? kerang"
                 }, {
                   "title": "Quotes🎙️",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? quotes"
                 }, {
                   "title": "Admin👤",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? admin"
                 }, {
                   "title": "Grup👨‍👨‍👧‍👧",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? group"
                 },
                 {
                   "title": "Premium📺",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? premium"
                 }, {
                   "title": "Internet🌏",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? internet"
                 },
                 {
                   "title": "Anonymous Chat🎭",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                  "rowId": ".? anonymous"
                 },
                 {
                   "title": "Nulis & Logo✏️",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? nulis"
                 },
                 {
                   "title": "Maker Menu 🍱",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? maker"
                 }, {
                   "title": "Downloader📲",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? downloader"
                 }, {
                   "title": "Tools🧰",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? tools"
                 }, {
                   "title": "Fun🎮",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? fun"
                 }, 
                 {
                   "title": "Asupan📺",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? asupan"
                 },
                 {
                   "title": "Database📁",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? database"
                 },
                 {
                   "title": "Al-Qur'an📖",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? quran"
                 },
                 
                 {
                   "title": "Jadi Bot👾",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? jadibot"
                 },
                    {
                   "title": "Owner👤",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? owner"
                 },
                 {
                   "title": "Host🚥",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? host"
                 },
                 {
                   "title": "Advanced🏇",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? advanced"
                 },
                 {
                   "title": "Infoℹ️",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? info"
                 },
                 {
                   "title": "Exp🎑",
-                  "description": "© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞",
+                  "description": "© Dityabotz",
                   "rowId": ".? exp"
                 },
               ]

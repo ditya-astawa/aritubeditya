@@ -1,6 +1,6 @@
 let fetch = require('node-fetch') 
 let handler = async (m, { conn, args, command }) => {
-	await conn.sendButton(m.chat, `       ━━━『 *Rules 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞* 』━━━
+	await conn.sendButton(m.chat, `       ━━━『 *Rules Dityabotz* 』━━━
             
 ➤ Tolong Gunakan Delay Jangan Spam Saat Menggunakan Bot. 
 ➤ Dilarang Untuk Menggunakan Command 18+ Berlebihan (Ketahuan = Banned)
@@ -8,7 +8,7 @@ let handler = async (m, { conn, args, command }) => {
 ➤ Call/VC Bot Auto Block.
 
 
-`, `*Hormat Kami*\n*© 𝐀𝐫𝐢𝐞 𝐓𝐮𝐛𝐞*`, {'button[0]': 'Terima', 'row[0]': '.terima', 'button[1]': 'Tidak', 'row[1]': '.tolak'}, m)}
+`, `*Hormat Kami*\n*© Dityabotz*`, {'button[0]': 'Terima', 'row[0]': '.terima', 'button[1]': 'Tidak', 'row[1]': '.tolak'}, m)}
          
 handler.help = ['rules']
 handler.tags = ['rules']

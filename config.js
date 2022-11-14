@@ -1,10 +1,10 @@
-global.you = ['6285828357727'] // Developer Bot
-global.rowner = ['6285828357727'] // Real Owner Bot
-global.owner = ['6285828357727'] // Owner Bot
-global.police = ['6285828357727'] // Police Bot
-global.mods = ['6285828357727']  // Want some help?
-global.prems = ['6285828357727'] // Premium user has unlimited limit
-global.helper = ['6285828357727']
+global.you = ['6285237596750'] // Developer Bot
+global.rowner = ['6285237596750'] // Real Owner Bot
+global.owner = ['6285237596750'] // Owner Bot
+global.police = ['6285237596750'] // Police Bot
+global.mods = ['6285237596750']  // Want some help?
+global.prems = ['6285237596750'] // Premium user has unlimited limit
+global.helper = ['6285237596750']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -60,9 +60,9 @@ global.useMulti = false //Bug?
 global.media = 'https://telegra.ph/file/df447196025b29017e1fa.jpg'
 
 // Sticker WM
-global.packname = 'ArieTube'
-global.author = 'ArieTube'
-global.wm = '© ArieTube'
+global.packname = 'DityaAstawa'
+global.author = 'DityaAstawa'
+global.wm = '© DityaAstawa'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 

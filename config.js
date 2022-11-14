@@ -57,7 +57,7 @@ global.socket = {
 
 global.useMulti = false //Bug?
 
-global.media = 'https://telegra.ph/file/df447196025b29017e1fa.jpg'
+global.media = 'https://telegra.ph/file/a941565fc10ab03a7c74e.jpg'
 
 // Sticker WM
 global.packname = 'DityaAstawa'

@@ -1,9 +1,9 @@
 let handler = async m => conn.sendButton(m.chat, `
       ━━━━『 *SHOP BOT* 』━━━━
-➸ Dana : 0831-7588-6677
-➸ Gopay : 0831-7588-6677
-➸ Pulsa : 0831-7588-6677 
-➸ Saweria : https://saweria.co/3SBot
+➸ Dana : 085792429140
+➸ Gopay : 085792429140
+➸ Pulsa : 085792429140 
+➸ Saweria : -
 *➸ QRIS : Chat Owner*
 
 _*Jumlah Rank :*_

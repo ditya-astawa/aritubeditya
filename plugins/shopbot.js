@@ -107,10 +107,10 @@ let handler = async (m, { conn, text, usedPrefix, args}) => {
             }
           }
           else if (args[1] == 'raihan'){
-            if (user.raihan == false) throw 'Kamu Bukan 𝐀𝐫𝐢𝐞𝐓𝐮𝐛𝐞'
+            if (user.raihan == false) throw 'Kamu Bukan DityaAstawa'
             if (user.raihan == true) {
-              conn.reply(m.chat, `𝐀𝐫𝐢𝐞𝐓𝐮𝐛𝐞 berhasil mengambil rod nya`) 
-              invu.rod = '*𝐀𝐫𝐢𝐞𝐓𝐮𝐛𝐞*'
+              conn.reply(m.chat, `DityaAstawa berhasil mengambil rod nya`) 
+              invu.rod = '*DityaAstawa*'
               invu.durabilty += 10000000000
             }
           }
